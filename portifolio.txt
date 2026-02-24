@@ -1,0 +1,15 @@
+text=<font face="verdana,arial" size="12" color="#CECECE">
+<a target="_blank" href="http://www.besideswd.com.br/cadonde"><u>CaDonde</u></a> - Portal de Classificados e Eventos
+<a target="_blank" href="http://www.besideswd.com.br/SportCenter"><u>Sport Center Academia VR</u></a> - Academia
+<a target="_blank" href="http://www.besideswd.com.br/Sintonia"><u>Sintonia</u></a> - Rádio 105,3 FM
+<a target="_blank" href="http://www.besideswd.com.br/EAR"><u>Escola de Artes Roseli</u></a> - Escola de pintura
+<a target="_blank" href="http://www.besideswd.com.br/Hashiwa"><u>Hashiwa</u></a> - Banda de Rock
+<a target="_blank" href="http://www.besideswd.com.br/ciadocafe"><u>Cia do cafe</u></a> - Cestas de Cafe da manha
+
+</font> 
+<font face="verdana,arial" size="10" color="#666666">
+<a target="_blank" href="http://www.ecko.org"><u>Ecko</u></a> - Cla de Games
+<a target="_blank" href="http://www.sessenta.tk"><u>Canal Sessenta</u></a> - Canal de Bate Papo
+<a target="_blank" href="http://www.canalVila.net"><u>Canal Vila</u></a> - Canal de Bate Papo - Fora do ar
+<a target="_blank" href="http://www.CNSRosario.org"><u>CNSRosario</u></a> - Canal de Bate Papo
+</font>                                                                                                                                           

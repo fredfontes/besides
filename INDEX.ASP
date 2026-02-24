@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>&#139 &#139 BeSides Web Design &#155 &#155</title>
+<LINK rel="SHORTCUT ICON" href="http://besideswd.com.br/bsds.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" scroll="no">
+<style>
+body { CURSOR:url(bsds.cur) }
+.jogos { cursor: hand } 
+</style>
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tr> 
+    <td width="233" height="10%" align="left" valign="top" background="barra02.jpg" bgcolor="#000000"> 
+      <font face="verdana,arial" color="#000000" size="1">&nbsp; </font><br>
+    </td>
+    <td colspan="2" valign="top" background="barra02.jpg" bgcolor="#000000"><!--DWLayoutEmptyCell-->&nbsp;</td>
+    <td width="233"  align="right" valign="top" background="barra02.jpg" bgcolor="#000000"><font face="verdana,arial" size="1" color="#292766"><img src="alien.jpg" width="30" height="30"> 
+      </font></td>
+  </tr>
+  <tr> 
+    <td height="80%" colspan="4" valign="top">
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="100%" height="100%">
+        <param name="movie" value="besideswd.swf">
+        <param name="quality" value="high">
+        <embed src="besideswd.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="100%" height="100%"></embed></object></td>
+  </tr>
+  <tr> 
+    <td width="233" height="10%" bgcolor="#000000" align="right" valign="middle" background="barra01.jpg"> 
+      <div align="left"><font color="cacaca" size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>v1.7</strong></font></div></td>
+    <td width="526" align="center" valign="middle" background="barra01.jpg" bgcolor="#000000"><font color="cacaca" size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Demorando 
+      muito para carregar? D&ecirc; uma jogadinha enquanto isso: <font color="#FFFFFF"><u class=jogos onclick="MM_openBrWindow('kingpin.asp','JOGO','width=410,height=410')">Jogo1</u></font> 
+      - <font color="#FFFFFF"><u class=jogos onclick="MM_openBrWindow('dots.asp','Jogo2','resizable=yes,width=400,height=500')">Jogo2</u></font></strong></font></td>
+    <td colspan="2"  align="right" valign="bottom" background="barra01.jpg" bgcolor="#000000"><img src="figura01.jpg" height="30"></td>
+  </tr>
+  <tr> 
+    <td height="0"></td>
+    <td></td>
+    <td width="5"></td>
+    <td></td>
+  </tr>
+</table>
+</body>
+</html>
+
+<html></html>

@@ -1,0 +1,43 @@
+INPUT {
+    font-family: verdana;
+    font-size: 7.5pt;
+    color: #FFFFFF;
+    background: black;
+    border-right: 1px solid #444444;
+    border-left: 1px solid #555555;
+    border-top: 1px solid #555555;
+    border-bottom: 1px solid #444444
+}
+
+SELECT {
+    font-family: verdana;
+    font-size: 7.5pt;
+    color: #FFFFFF;
+    background: black;
+    border-right: 1px solid #444444;
+    border-left: 1px solid #555555;
+    border-top: 1px solid #555555;
+    border-bottom: 1px solid #444444
+}
+
+TEXTAREA {
+    font-family: verdana;
+    font-size: 7.5pt;
+    color: #FFFFFF;
+    background: black;
+    border-right: 1px solid #444444;
+    border-left: 1px solid #555555;
+    border-top: 1px solid #555555;
+    border-bottom: 1px solid #444444
+}
+
+.button {
+    font-family: verdana;
+    font-size: 7.5pt;
+    color: #FFFFFF;
+    background: black;
+    border-right: 1px solid #444444;
+    border-left: 1px solid #555555;
+    border-top: 1px solid #555555;
+    border-bottom: 1px solid #444444
+}
