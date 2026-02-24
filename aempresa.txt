@@ -1,0 +1,19 @@
+text=<font face="verdana,arial" size="12" color="#CECECE">
+			A BeSidesWD abre suas portas no ano de 2003, com sede na cidade de Volta Redonda, estado do Rio de Janeiro, e entra no mercado com intuito de proporcionar aos seus clientes uma alta qualidade nos serviços, podendo atender desde pequenas empresas até empresas de grande porte, visando desenvolver projetos de qualidade que atendam as necessidades de nossos clientes.
+			Desenvolvemos Web sites de acordo com as características de cada negócio. 
+Baseando-se nisso, a BeSidesWD dispõe de uma equipe de profissionais altamente capacitados.
+
+Conheça nossos serviços:
+
+- <b>Web Sites:</b> A BeSidesWD traz o que há de mais avançado para o desenvolvimento e design de seu Site, usando as mais variadas linguagens e scripts proporcionando assim a diferença no mundo da web. Trabalhando com as melhores tecnologias no ramo de Web Sites, desenvolvemos projetos a altura de sua empresa.
+
+- <b>Manutenção de Sites:</b> Reestruturamos web sites dando melhores qualidades a ele e também fazemos manutenções continuas, com atualizações de conteúdo e administração dos sites. A manutenção depende do fluxo de informações do cliente, podendo ser mensal, quinzenal, semanal e até mesmo diária.
+
+- <b>Portais Corporativos:</b> desenvolvemos para sua empresa uma estrutura OnLine que pode proporcionar consolidação da imagem institucional, estreitamento de relacionamento com seu consumidor, fidelização, marketing direto, etc.
+
+- <b>E-commerce:</b> Desenvolvimento de lojas virtuais.
+
+- <b>Web Marketing:</b> Planejamento de marketing de Projetos Web.
+
+Entre em contato conosco e solicite uma entrevista para avaliação de seu Web Site.
+</font>                                                                                                                                           
